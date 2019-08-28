@@ -1,2 +1,6 @@
 # hello-world
-literate-guide
+
+Hi Humans!
+Qi here, I like C and python(maybe C better!).
+Quaity Assurance is my work,
+Programing is my hobby.
