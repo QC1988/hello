@@ -1,6 +1,6 @@
 # hello
-2019/8
 
+2019/8/28
 Hi!
 Qi here, generally, I do pragramming with C and python(maybe C better!).
 Quality Assurance is my main work,
