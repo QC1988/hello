@@ -1,6 +1,11 @@
-# hello-world
+# hello
+2019
 
-Hi Humans!
-Qi here, I like C and python(maybe C better!).
-Quaity Assurance is my work,
-Programing is my hobby.
+Hi!
+Qi here, generally, I do pragramming with C and python(maybe C better!).
+Quality Assurance is my main work,
+so i'd like solve quality problems use programming.
+
+2022/12/05
+This year, I'm also responsible for some production management and production planning. 
+I also try to use programs to solve some new problems.
